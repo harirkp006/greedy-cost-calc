@@ -10,3 +10,11 @@ use free units optimally to minimize total cost.
 - Time Complexity: O(N)
 
 ### Example Input
+1 
+3 5
+4 10
+3 5
+2 20
+
+### Output
+50
